@@ -2,4 +2,6 @@
 
 SISTEM PENDUKUNG KEPUTUSAN KERINGANAN PEMBAYARAN UKT MAHASISWA
 
-Anggota :
+Anggota : - M Brian Yusuf
+          - Daffa Fauzan
+          - M Imam Amirrudins
